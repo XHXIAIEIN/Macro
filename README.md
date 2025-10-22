@@ -1,3 +1,13 @@
+## 目录结构
+
+```
+项目根目录
+├── source/                      源代码目录
+│   ├── macro_config.txt         配置文件 (在此编辑宏命令)
+│   └── macro.py                 宏脚本   (运行这个 python 脚本启动宏监听)
+├── README.md                    项目说明
+└── requirements.txt             依赖清单
+```
 
 ## 如何安装
 
